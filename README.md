@@ -5,3 +5,4 @@
 - [Mathematical analysis](https://www.bilibili.com/video/BV12s411h7v4?p=2&spm_id_from=pageDriver)
 - [Probability and Mathematical Statistics](https://www.bilibili.com/video/BV1vW41147Uw?from=search&seid=8498494517894682459&spm_id_from=333.337.0.0)
 - [Riemann Geometry](https://www.bilibili.com/video/BV1GZ4y1T71c?from=search&seid=17610941744384108218&spm_id_from=333.337.0.0)
+- [机器学习白板推导](https://space.bilibili.com/97068901/channel/detail?cid=92387&ctype=0)
